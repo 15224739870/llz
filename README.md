@@ -1,7 +1,7 @@
 # llz
 ## 1.科研学习笔记
-* [python相关](./python相关)
-* [Linux使用](./linux使用)
+* [python学习](./python学习)
+* [Linux学习](./linux学习)
 * [vscode使用教程](./vscode.md)
 * [slam学习笔记](./slamNotes/slam学习笔记.md)
 * [slam资料和笔记](/slamNotes)
